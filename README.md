@@ -1,16 +1,38 @@
-# React + Vite
+# BPL Dream 11
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Live Demo: https://bpl-dream-project-bd.netlify.app/
 
-Currently, two official plugins are available:
+Overview:
+BPL Dream 11 is a fantasy cricket web application where users can build their own team by selecting players within a limited coin budget. The app provides an interactive interface for managing teams and making strategic decisions.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Technologies:
+- React.js
+- JavaScript (ES6)
+- Tailwind CSS
+- Vite
 
-## React Compiler
+Features:
+- Build a fantasy cricket team
+- Coin-based player selection system
+- Add and remove players
+- Prevent duplicate player selection
+- Team selection limit control
+- Real-time notifications
+- Responsive design
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Dependencies:
+- react
+- react-dom
+- tailwindcss
+- react-toastify
 
-## Expanding the ESLint configuration
+Run Locally:
+git clone https://github.com/masumgaibandha/bpl-dream-11.git
+cd bpl-dream-11
+npm install
+npm run dev
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+Links:
+Live Site: https://bpl-dream-project-bd.netlify.app/
+GitHub: https://github.com/masumgaibandha/bpl-dream-11
