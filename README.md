@@ -33,7 +33,8 @@ npm install
 npm run dev
 
 Screenshort here: 
-<img width="1758" height="925" alt="bpl" src="https://github.com/user-attachments/assets/90e3f80a-6409-4431-9685-9ee018c15cbe" />
+<img width="1890" height="907" alt="bpl" src="https://github.com/user-attachments/assets/d014100c-6507-4501-9f9e-d51e47edecfb" />
+
 
 
 Links:
