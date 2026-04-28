@@ -32,6 +32,9 @@ cd bpl-dream-11
 npm install
 npm run dev
 
+Screenshort here: 
+<img width="1758" height="925" alt="bpl" src="https://github.com/user-attachments/assets/90e3f80a-6409-4431-9685-9ee018c15cbe" />
+
 
 Links:
 Live Site: https://bpl-dream-project-bd.netlify.app/
